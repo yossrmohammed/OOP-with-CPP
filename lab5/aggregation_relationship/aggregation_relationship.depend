@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699947784 source:e:\iti 9 months\c++\projects\lab5\aggregation_relationship\main.cpp
+	<iostream>
+	"graphics.h"
+
+1699945403 e:\iti 9 months\c++\projects\lab5\aggregation_relationship\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
